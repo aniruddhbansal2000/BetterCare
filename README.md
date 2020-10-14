@@ -16,13 +16,10 @@ The following problem can be solved by building a Machine Learning model using s
 
 <br>
   
-# SCREENSHOTS
-<br>
-![](Screenshot%202020-10-14%20at%204.48.44%20PM.png)
-<br>
-![](Screenshot%202020-10-14%20at%204.50.07%20PM.png)
-<br>
-![](Screenshot%202020-10-14%20at%204.50.30%20PM.png)
+# SCREENSHOTS <br>
+![image](Screenshot%202020-10-14%20at%204.48.44%20PM.png)<br>
+![image](Screenshot%202020-10-14%20at%204.50.07%20PM.png)<br>
+![image](Screenshot%202020-10-14%20at%204.50.30%20PM.png)
  
  
 
