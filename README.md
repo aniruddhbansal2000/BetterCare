@@ -13,6 +13,10 @@ The following problem can be solved by building a Machine Learning model using s
 <h3> 3. Deployment to iOS App - done using SwiftUI,CoreML,CreateML</h3>
   
 <h3> Dataset used: [https://www.kaggle.com/sulianova/cardiovascular-disease-dataset?select=cardio_train.csv]
+  
+  
+ ##SCREENSHOTS
+ 
 
 
 
