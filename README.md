@@ -12,7 +12,7 @@ The following problem can be solved by building a Machine Learning model using s
 <h3> 2. Model Training and Testing - done using jupyter notebook and python</h3>
 <h3> 3. Deployment to iOS App - done using SwiftUI,CoreML,CreateML</h3>
   
-# Dataset used: [https://www.kaggle.com/sulianova/cardiovascular-disease-dataset?select=cardio_train.csv]
+<h3> Dataset used: [https://www.kaggle.com/sulianova/cardiovascular-disease-dataset?select=cardio_train.csv]
 
 
 
