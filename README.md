@@ -13,9 +13,16 @@ The following problem can be solved by building a Machine Learning model using s
 <h3> 3. Deployment to iOS App - done using SwiftUI,CoreML,CreateML</h3>
   
 <h3> Dataset used: [https://www.kaggle.com/sulianova/cardiovascular-disease-dataset?select=cardio_train.csv]
-  
+
+<br>
   
  ##SCREENSHOTS
+ ![](Screenshot%202020-10-14%20at%204.48.44%20PM.png)
+ <br>
+ ![](Screenshot%202020-10-14%20at%204.50.07%20PM.png)
+ <br>
+ ![](Screenshot%202020-10-14%20at%204.50.30%20PM.png)
+ 
  
 
 
